@@ -14,7 +14,7 @@
 
 # 功能支持列表：
 
-1.支持BigSur和Monterey系统；
+1.支持Catalina，BigSur和Monterey系统；
 
 2.CPU超线程和全核心都可正常使用（I7-12700KF，其他CPU应该也可以，但是CPU显示会有问题）；
 
