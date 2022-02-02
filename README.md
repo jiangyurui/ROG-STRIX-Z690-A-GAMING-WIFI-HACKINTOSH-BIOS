@@ -1,4 +1,4 @@
-# ROG-STRIX-Z690-A-GAMING-WIFI-免引导黑苹果BIOS（目前支持BigSur和Monterey系统）
+# Z690吹雪免引导黑苹果BIOS（目前支持BigSur和Monterey系统）
 
 # 目的
 为了建立一个黑苹果新手使用macOS系统的方式（类似于以前OZMOSIS一样），可以让使用者不用去关心bootloader设置问题，直接使用即好（当然万事万物都是一分为二，因为深度定制导致灵活性会差一些，你觉得不好可能是因为你没有这方面的需求，这个对黑苹果新手来说是非常友好的）；
